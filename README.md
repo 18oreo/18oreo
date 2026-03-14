@@ -80,19 +80,21 @@ Displays real-time weather data using API integration.
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=18oreo&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=18oreo&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=18oreo&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=18oreo&theme=tokyo-night&hide_border=true"/>
 </p>
+
 
 ---
 ## ✍️ Random Dev Quote
