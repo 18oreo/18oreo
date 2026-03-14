@@ -60,10 +60,10 @@ Displays real-time weather data using API integration.
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=18oreo&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=18oreo&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -98,12 +98,12 @@ Displays real-time weather data using API integration.
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
-
-# 🐍 Contribution Snake Animation
+## 🐍 Watch the Snake Eat My Contributions
 
 <p align="center">
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%">
 </p>
 
 ---
