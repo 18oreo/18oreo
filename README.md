@@ -24,7 +24,7 @@
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,php"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js"/>
 </p>
 
 ### 🌐 Web Development
@@ -42,9 +42,15 @@
 ### ⚙️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino"/>
 </p>
 
+
+### 🌐 connects
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,linkedin,instagram,facebook"/>
+</p>
 ---
 
 # 📌 Featured Projects
