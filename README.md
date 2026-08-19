@@ -49,7 +49,7 @@
 ### 🌐 connects
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,linkedin,instagram,facebook"/>
+<img src="https://skillicons.dev/icons?i=github,linkedin,instagram,facebook"/>
 </p>
 ---
 
@@ -78,9 +78,9 @@ Displays real-time weather data using API integration.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=18oreo&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=18oreo&show_icons=true&theme=dracula"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18oreo&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18oreo&layout=compact&theme=dracula"/>
 
 </p>
 
