@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm 18oreo</h1>
 <h3 align="center">💻 Full Stack Developer | 🌱 MERN Stack Learner | 🚀 Tech Enthusiast</h3>
+
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
 </p>
@@ -11,7 +12,6 @@
 ---
 
 # 🧑‍💻 About Me
-
 - 🔭 Currently working on **Smart Farming MERN Website**
 - 🌱 Learning **Advanced Backend & Cloud Technologies**
 - 💡 Interested in **Web Development, APIs, and Databases**
@@ -22,35 +22,30 @@
 # 🚀 Tech Stack
 
 ### 👨‍💻 Programming Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js"/>
 </p>
 
 ### 🌐 Web Development
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react"/>
 </p>
 
 ### 🗄 Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ### ⚙️ Tools & Platforms
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino"/>
 </p>
 
-
-### 🌐 connects
-
+### 🌐 Connects
 <p>
 <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,facebook"/>
 </p>
+
 ---
 
 # 📌 Featured Projects
@@ -67,57 +62,55 @@ Displays real-time weather data using API integration.
 ---
 
 ## 🏆 GitHub Achievements
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=18oreo&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
-
+## 📊 GitHub Statistics
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=18oreo&show_icons=true&theme=dracula"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18oreo&layout=compact&theme=dracula"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18oreo&theme=tokyonight" alt="GitHub Profile Details"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=18oreo&theme=tokyonight" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=18oreo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18oreo&layout=compact&theme=tokyonight" alt="Top Languages Compact"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=18oreo&theme=tokyonight&hide_border=true"/>
 </p>
 
-
 ---
 
 ## 📈 Contribution Graph
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=18oreo&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=18oreo&theme=tokyonight&hide_border=true"/>
 </p>
 
-
 ---
-## ✍️ Random Dev Quote
 
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ---
 
 ## 🐍 Watch the Snake Eat My Contributions
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%">
+<img src="https://raw.githubusercontent.com/18oreo/18oreo/output/github-contribution-grid-snake-dark.svg" width="90%">
 </p>
 
 ---
 
 # 🌐 Connect With Me
-
 <p>
 <a href="https://github.com/18oreo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 </p>
@@ -125,7 +118,6 @@ Displays real-time weather data using API integration.
 ---
 
 # 👀 Profile Visitors
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=18oreo&label=Profile%20views&color=blue&style=for-the-badge"/>
 </p>
@@ -133,6 +125,4 @@ Displays real-time weather data using API integration.
 ---
 
 # ⭐ Support
-
 If you like my projects, please ⭐ my repositories and follow me on GitHub!
-
