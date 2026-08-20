@@ -112,11 +112,9 @@ An **IoT powered automatic writing machine** that replicates handwriting mechani
   </a>
 
 </p>
----
-# 👀 Profile Visitors
+👀 Profile Visitors
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=18oreo&label=Profile%20views&color=blue&style=for-the-badge"/>
 </p>
----
-# ⭐ Support
+⭐ Support
 If you like my projects, please ⭐ my repositories and follow me on GitHub!
